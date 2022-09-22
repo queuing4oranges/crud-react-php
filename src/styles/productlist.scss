@@ -1,0 +1,13 @@
+.list__container {
+  background-color: grey;
+  width: 60%;
+  margin: auto;
+}
+
+ul :nth-child(1) {
+  background-color: lightgrey;
+}
+
+ul {
+  list-style: none;
+}
